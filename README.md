@@ -1,2 +1,0 @@
-# giu-tutorial
-GIU-Tutorial
